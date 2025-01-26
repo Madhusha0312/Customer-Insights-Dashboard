@@ -10,15 +10,16 @@ This Excel dashboard provides a comprehensive analysis of customer satisfaction,
 
 ## Features
 - **Customer Satisfaction by Loyalty Level:**  
-  Highlights average satisfaction scores across loyalty tiers (Gold, Silver, Bronze).  
-  ![Customer Satisfaction by Loyalty Level](CustomerDistByCountry.png)
+  Average satisfaction scores segmented by loyalty tiers (Gold, Silver, Bronze).
 
 - **Satisfaction Trends by Age Group:**  
-  A line graph showing how customer satisfaction varies with age.  
+  Illustrates how customer satisfaction changes across different age groups, providing valuable demographic insights.  
   ![Satisfaction Trends by Age Group](CustCountByCountry.png)
 
 - **Customer Distribution by Country:**  
-  Visualizes the percentage of customers across different regions.  
+  Shows the percentage distribution of customers across various regions to identify geographic trends.  
+  ![Customer Distribution by Country](CustomerDistByCountry.png)
+
 
 ## Tools Used
 - **Excel:** For creating an interactive and visually engaging dashboard.
