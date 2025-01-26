@@ -21,7 +21,7 @@ This Excel dashboard provides a comprehensive analysis of customer satisfaction,
 
 - **Customer Count by Country:**  
   Displays the number of customers in each country, highlighting market size and potential for regional strategies.  
-  ![Customer Count by Country](CustomerDistByCountry.png)
+ ![Satisfaction Trends by Age Group](CustCountByCountry.png)
 
 
 
